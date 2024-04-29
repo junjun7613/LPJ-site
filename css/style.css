@@ -85,7 +85,7 @@ footer {
 }
 
 #about-content {
-    width: 100vh;
+    width: 90vh;
     text-shadow: none;
 }
 
@@ -134,7 +134,7 @@ footer {
 
 .news-content {
     height: 200px; /* お知らせウィンドウの高さを設定 */
-    width: 800px;
+    width: 700px;
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -160,7 +160,7 @@ footer {
 
 .events-content {
     height: 200px;
-    width: 800px;
+    width: 700px;
     display: flex;
     justify-content: center;
     flex-direction: column;
