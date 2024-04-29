@@ -76,7 +76,7 @@ footer {
 #about {
     display: flex;
     flex-direction: column;
-    margin-top: 20px;
+    margin-top: 40px;
     justify-content: center;
     align-items: center;
     text-align: center;
@@ -241,4 +241,11 @@ footer {
     text-align: center;
     color: black;
     text-shadow: 1px 1px 2px gray;
+}
+
+#lang-en, #lang-ja {
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 1.5em;
 }
