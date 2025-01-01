@@ -183,7 +183,7 @@ footer {
 }
 
 #news ul {
-    padding: 0; /* デフォルトのパディングをリセット */
+    padding: 20px; /* デフォルトのパディングをリセット */
     list-style-type: none; /* リストアイテムのスタイルをリセット */
 }
 #blog ul {
