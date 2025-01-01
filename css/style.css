@@ -98,7 +98,7 @@ footer {
 
 #news {
     width: auto;
-    margin-top: 20px;
+    margin-top: 10px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -122,7 +122,7 @@ footer {
 
 #events {
     width: auro;
-    margin-top: 20px;
+    margin-top: 10px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -191,8 +191,13 @@ footer {
 }
 
 #news li {
-    margin-bottom: 10px; /* ニュースアイテム間のスペース */
+    margin-bottom: 15px; /* ニュースアイテム間のスペース */
 }
+
+#top-news {
+    margin-top: 25px;
+}
+
 #blog li {
     margin-bottom: 10px;
 }
