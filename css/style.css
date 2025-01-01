@@ -183,8 +183,9 @@ footer {
 }
 
 #news ul {
-    padding: 20px; /* デフォルトのパディングをリセット */
+    padding: 0; /* デフォルトのパディングをリセット */
     list-style-type: none; /* リストアイテムのスタイルをリセット */
+    margin-top: 150px;
 }
 #blog ul {
     padding: 0;
@@ -192,7 +193,7 @@ footer {
 }
 
 #news li {
-    margin-bottom: 15px; /* ニュースアイテム間のスペース */
+    margin-bottom: 30px; /* ニュースアイテム間のスペース */
 }
 
 #blog li {
