@@ -134,7 +134,7 @@ footer {
 
 .news-content {
     height: 200px; /* お知らせウィンドウの高さを設定 */
-    width: 700px;
+    width: 500px;
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -160,11 +160,11 @@ footer {
 
 .events-content {
     height: 200px;
-    width: 700px;
+    width: 500px;
     display: flex;
     justify-content: center;
     flex-direction: column;
-    align-self: center;
+    /*align-self: center;*/
     align-items: left;
     text-shadow: none;
     text-align: left;
