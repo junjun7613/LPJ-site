@@ -135,15 +135,12 @@ footer {
 .news-content {
     height: 200px; /* お知らせウィンドウの高さを設定 */
     width: 700px;
-    overflow: visible; /* 必要に応じて変更 */
-    position: relative; /* 必要に応じて変更 */
     display: flex;
     justify-content: center;
     flex-direction: column;
     align-items: center;
     overflow-y: scroll; /* 垂直方向にスクロールバーを表示 */
-    padding-top: 20px; /* 内容と枠の間にスペースを作る */
-    padding: 20px; /* 内容と枠の間にスペースを作る */
+    padding: 10px; /* 内容と枠の間にスペースを作る */
     border: 1px solid #ccc; /* 枠線を設定 */
     margin: 10px 0; /* 上下のマージン */
     background-color: #f8f8f8; /* 背景色 */
@@ -173,7 +170,7 @@ footer {
     text-shadow: none;
     text-align: left;
     overflow-y: scroll; /* 垂直方向にスクロールバーを表示 */
-    padding: 20px; /* 内容と枠の間にスペースを作る */
+    padding: 10px; /* 内容と枠の間にスペースを作る */
     border: 1px solid #ccc; /* 枠線を設定 */
     margin: 10px 0; /* 上下のマージン */
     background-color: #f8f8f8; /* 背景色 */
