@@ -134,7 +134,7 @@ footer {
 
 .news-content {
     height: 200px; /* お知らせウィンドウの高さを設定 */
-    width: 500px;
+    width: 700px;
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -160,7 +160,7 @@ footer {
 
 .events-content {
     height: 200px;
-    width: 500px;
+    width: 700px;
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -195,7 +195,7 @@ footer {
 }
 
 #top-news {
-    margin-top: 25px;
+    margin-top: 40px;
 }
 
 #blog li {
